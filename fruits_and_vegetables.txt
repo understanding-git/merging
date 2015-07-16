@@ -1,3 +1,4 @@
 Tomato
 Pear
 Strawberry
+Banana
